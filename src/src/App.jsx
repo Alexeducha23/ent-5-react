@@ -1,9 +1,9 @@
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
-import Home from "./pages/Home";
-import Pokedex from "./pages/Pokedex";
-import ProtectedRoutes from "./pages/ProtectedRoutes";
-import PokedexName from "./pages/PokedexName";
+import Home from "./Pages/Home";
+import Pokedex from "./Pages/Pokedex";
+import ProtectedRoutes from "./Pages/ProtectedRoutes";
+import PokedexName from "./Pages/PokedexName";
 
 function App() {
   return (
